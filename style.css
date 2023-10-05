@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+body {
+    background: #1A1A1A;
+}
+
+.header-content {
+    height: 100px;
+    align-items: center;
+}
+
+
+hr {
+    color: #fff;
+    margin: 0;
+}
+
+
+
+.link-green:hover {
+    color: green;
+    transition: 1s;
+}
+
+
+#birinchi {
+    background: url('img/bg.png');
+}
+
+.birinchi-title {
+    width: 1100px;
+    margin: 0 auto;
+
+    padding-top: 80px;
+}
+
+.birinchi-title h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 7.2px;
+    text-transform: capitalize;
+}
+
+
+.birinchi-title h1 span {
+    color: #FFF;
+    font-family: Helvetica Neue;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 7.2px;
+    text-transform: capitalize;
+}
+
+
+.birinchi-text {
+    width: 550px;
+    margin: 16px auto 40px;
+
+
+
+}
+
+.birinchi-text p {
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
+    letter-spacing: -0.2px;
+}
+
+.birinchi-btn {
+    text-align: center;
+
+}
+
+.birinchi-btn button {
+    border-radius: 43px;
+    background: #34C759;
+    width: 220px;
+    height: 72px;
+    border: none;
+
+
+    color: var(--black, #1A1A1A);
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 3.6px;
+}
+
+
+.birinchi-cards {
+    padding: 80px 0 164px;
+}
+
+
+.info-card {
+    text-align: center;
+
+    width: 215px;
+
+}
+
+.time {
+    color: #FFF;
+    font-family: Helvetica Neue;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 187.5% */
+}
+
+.info-text {
+    color: #FFF;
+
+    font-family: Helvetica Neue;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    /* 428.571% */
+}
